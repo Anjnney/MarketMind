@@ -1,0 +1,5 @@
+{
+  "name": "MarketMind",
+  "description": "An AI-powered financial intelligence terminal. Features real-time market grounding, deep-dive stock research using Gemini Thinking models, and interactive technical analysis visualizations.",
+  "requestFramePermissions": []
+}
